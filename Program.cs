@@ -12,6 +12,5 @@
         int c = Convert.ToInt16(Console.ReadLine()) + 30744;
         c = c - 30744;
         System.Console.WriteLine("{0}/{1}/{2}",a.ToString().PadLeft(2, '0'), b.ToString().PadLeft(2, '0'), c.ToString().PadLeft(2, '0'));
-        
     }
 }
