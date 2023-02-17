@@ -1,0 +1,15 @@
+D:\Documentos\Proyecto\Escuela\CP1\E7\bin\Debug\net7.0\E7.exe
+D:\Documentos\Proyecto\Escuela\CP1\E7\bin\Debug\net7.0\E7.deps.json
+D:\Documentos\Proyecto\Escuela\CP1\E7\bin\Debug\net7.0\E7.runtimeconfig.json
+D:\Documentos\Proyecto\Escuela\CP1\E7\bin\Debug\net7.0\E7.dll
+D:\Documentos\Proyecto\Escuela\CP1\E7\bin\Debug\net7.0\E7.pdb
+D:\Documentos\Proyecto\Escuela\CP1\E7\obj\Debug\net7.0\E7.csproj.AssemblyReference.cache
+D:\Documentos\Proyecto\Escuela\CP1\E7\obj\Debug\net7.0\E7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Proyecto\Escuela\CP1\E7\obj\Debug\net7.0\E7.AssemblyInfoInputs.cache
+D:\Documentos\Proyecto\Escuela\CP1\E7\obj\Debug\net7.0\E7.AssemblyInfo.cs
+D:\Documentos\Proyecto\Escuela\CP1\E7\obj\Debug\net7.0\E7.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyecto\Escuela\CP1\E7\obj\Debug\net7.0\E7.dll
+D:\Documentos\Proyecto\Escuela\CP1\E7\obj\Debug\net7.0\refint\E7.dll
+D:\Documentos\Proyecto\Escuela\CP1\E7\obj\Debug\net7.0\E7.pdb
+D:\Documentos\Proyecto\Escuela\CP1\E7\obj\Debug\net7.0\E7.genruntimeconfig.cache
+D:\Documentos\Proyecto\Escuela\CP1\E7\obj\Debug\net7.0\ref\E7.dll
